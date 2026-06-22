@@ -68,7 +68,7 @@ The goal of this challenge is to strengthen programming fundamentals, improve pr
 
 ## 📂 Repository Structure
 
-```text
+
 Day-01
 ├── Question-1.java
 ├── Question-2.java
