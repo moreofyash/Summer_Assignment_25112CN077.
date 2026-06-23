@@ -1,30 +1,52 @@
 # Summer_Assignment_25112CN077.
 
+# 30 Days Java & DSA Summer Assignment
 
-# 🚀 30 Days Java & DSA Summer Assignment
+<div align="center">
 
-Welcome to my ** Java & Data Structures & Algorithms Challenge**.
+### 💻 Consistency • Problem Solving • Growth
 
-This repository documents my journey of solving **120 carefully selected Java and DSA problems** , with a commitment of **4 questions every day**.
+**120 Java & DSA Questions | 30 Days | 4 Questions Daily**
 
-The goal of this challenge is to strengthen programming fundamentals, improve problem-solving ability, and build consistency through daily coding practice.
+</div>
 
 ---
 
-## 📊 Challenge Overview
+## 📖 About This Repository
 
+This repository documents my **30-Day Summer Assignment**, where I solve **4 Java and Data Structures & Algorithms (DSA) problems every day**.
+
+The objective of this challenge is to develop strong programming fundamentals, improve problem-solving abilities, and gain practical experience with core Java and DSA concepts through consistent daily practice.
+
+---
+
+## 🎯 Challenge Goals
+
+- Solve **4 questions daily**
+- Complete **120 questions in 30 days**
+- Strengthen Java programming skills
+- Master fundamental and advanced DSA concepts
+- Improve analytical thinking and coding efficiency
+- Build a habit of consistent learning and practice
+
+---
+
+## 📊 Challenge Statistics
+
+| Metric | Value |
+|----------|----------|
 | Duration | 30 Days |
-|-----------|----------|
 | Questions Per Day | 4 |
 | Total Questions | 120 |
-| Language | Java |
-| Focus | Java + DSA |
+| Programming Language | Java |
+| Focus Areas | Java + DSA |
+| Objective | Skill Development & Problem Solving |
 
 ---
 
-## 📚 Topics Covered
+## ☕ Java Topics Covered
 
-### Java Programming
+- Java Fundamentals
 - Variables & Data Types
 - Operators
 - Conditional Statements
@@ -33,83 +55,131 @@ The goal of this challenge is to strengthen programming fundamentals, improve pr
 - Arrays
 - Strings
 - Object-Oriented Programming (OOP)
+- Constructors
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
 - Exception Handling
 - Collections Framework
+- Generics
 - File Handling
-
-### Data Structures
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Hashing
-- Trees
-- Binary Search Trees
-- Heaps
-- Graphs
-- Tries
-
-### Algorithms
-- Searching
-- Sorting
 - Recursion
-- Backtracking
-- Divide and Conquer
-- Greedy Algorithms
-- Dynamic Programming
-- Binary Search
+- Multithreading
+- Java 8 Features
+
+---
+
+## 🧠 Data Structures & Algorithms Topics Covered
+
+### Basics
+- Time Complexity
+- Space Complexity
+- Recursion
+- Bit Manipulation
+
+### Arrays & Strings
+- Array Operations
+- Prefix Sum
 - Sliding Window
 - Two Pointers
-- Bit Manipulation
-- Graph Algorithms
+- String Manipulation
+
+### Searching & Sorting
+- Linear Search
+- Binary Search
+- Sorting Algorithms
+
+### Linked List
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+
+### Stack & Queue
+- Stack
+- Queue
+- Deque
+- Monotonic Stack
+
+### Hashing
+- HashMap
+- HashSet
+- Frequency Counting
+
+### Trees
+- Binary Tree
+- Binary Search Tree
+- Tree Traversals
+
+### Heap & Priority Queue
+- Min Heap
+- Max Heap
+- Priority Queue
+
+### Graphs
+- BFS
+- DFS
+- Topological Sorting
+- Shortest Path Algorithms
+
+### Advanced Topics
+- Greedy Algorithms
+- Backtracking
+- Dynamic Programming
+- Trie
+- Segment Tree
+- Disjoint Set Union (DSU)
 
 ---
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
-
-Day-01
-├── Question-1.java
-├── Question-2.java
-├── Question-3.java
-└── Question-4.java
-
-Day-02
-├── Question-1.java
-├── Question-2.java
-├── Question-3.java
-└── Question-4.java
-
-...
-
-Day-30
-├── Question-1.java
-├── Question-2.java
-├── Question-3.java
-└── Question-4.java
+```text
+Summer_Assignment/
+│
+├── Day01/
+├── Day02/
+├── Day03/
+├── Day04/
+├── ...
+├── Day30/
+│
+└── README.md
 ```
 
----
-
-## 🎯 Objectives
-
-- Strengthen Java fundamentals
-- Master Data Structures & Algorithms
-- Improve coding consistency
-- Enhance logical thinking
-- Build a strong problem-solving mindset
-- Prepare for coding interviews and competitive programming
+Each day's folder contains:
+- Java source code
+- Problem solutions
+- Topic-wise practice questions
 
 ---
+---
 
+## 🏆 Expected Outcomes
+
+By completing this challenge, I will:
+
+✔ Strengthen Java programming skills
+
+✔ Improve coding consistency and discipline
+
+✔ Develop strong problem-solving abilities
+
+✔ Build a solid foundation in Data Structures & Algorithms
+
+✔ Prepare for coding interviews, competitive programming, and technical assessments
 
 ---
 
-## 💡 Quote
+## 🌟 Learning Philosophy
 
-> "Success is the sum of small efforts repeated day in and day out."
+> "Success in programming comes from consistent practice, continuous learning, and the determination to solve one problem at a time."
 
 ---
 
-⭐ Consistency over perfection. 120 questions. 30 days. One step closer to mastery.
+<div align="center">
+
+### 🚀 120 Questions • 30 Days • One Goal: Continuous Improvement
+
+</div>
+
